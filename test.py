@@ -1,2 +1,2 @@
 name = 'aaaaa'
-print(name)
+print(name)。。。。
