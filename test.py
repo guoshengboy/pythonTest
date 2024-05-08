@@ -1,0 +1,2 @@
+name = 'aaaaa'
+print(name)
